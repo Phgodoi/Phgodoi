@@ -4,7 +4,8 @@ Olá, 😉 !!!
 Sou graduado em Gestão da Tecnologia da Informação. Foi durante o curso que tive meu primeiro contato com linguagens de programação, e desde então, minha paixão pela área só cresceu. A possibilidade de desenvolver algo e saber que isso pode impactar a vida de alguém é extremamente gratificante para mim. Estou constantemente absorvendo todo o conhecimento disponibilizado pela [Dio](https://www.dio.me/users/pauloh_godoi94) em sua plataforma, o que me permitiu criar meu próprio [portfólio](https://phgodoi.github.io/portfolio-github/). Estou entusiasmado em continuar minha jornada na programação e tecnologia, sempre em busca de aprender e criar soluções inovadoras.
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ph-godoi/)  [![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram)](https://www.instagram.com/ph_godoi/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ph-godoi/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ph_godoi/)
 
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)	

@@ -7,8 +7,14 @@ Sou graduado em Gestão da Tecnologia da Informação. Foi durante o curso que t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ph-godoi/)  [![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram)](https://www.instagram.com/ph_godoi/)
 
 ## Habilidades
-![HTML5](https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=css3&logoColor=264CE4) ![JavaScript](https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react)
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)	
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## GitHub Stats
 
